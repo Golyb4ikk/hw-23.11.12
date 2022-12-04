@@ -15,9 +15,10 @@ public class Main {
         //zadacha2
         int a=2;
         int y=0;
+        int c;
         for(int i=0;i<10;i++){
             y++;
-            int c=a*y;
+            c=a*y;
             System.out.println(a+""+"*"+y+"="+c);
         }
 
